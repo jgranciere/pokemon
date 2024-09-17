@@ -90,7 +90,7 @@ button.addEventListener('click', (event) => {
 })
 
 pokemonIcon.addEventListener('click', () => {
-    location.reload(); // Recarrega a página
+    location.reload(); 
 });
 
 
